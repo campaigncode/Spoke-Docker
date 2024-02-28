@@ -51,7 +51,7 @@ if (!getConfig("SUPPRESS_DATABASE_AUTOCREATE", null, { truthy: 1 })) {
 setupUserNotificationObservers();
 const app = express();
 // Heroku requires you to use process.env.PORT
-const port = process.env.DEV_APP_PORT || process.env.PORT;
+const port = process.env.PORT;
 
 // Don't rate limit heroku
 app.enable("trust proxy");
