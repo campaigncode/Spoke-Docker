@@ -4,7 +4,7 @@
 
 Spoke is an open source text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
 
-Spoke was created by Saikat Chakrabarti and Sheena Pakanati.
+Spoke was created by Saikat Chakrabarti and Sheena Pakanati, and is now managed by StateVoices.
 
 The latest version is [13.1.0](https://github.com/StateVoicesNational/Spoke/tree/13.1.0) (see [release notes](https://github.com/StateVoicesNational/Spoke/blob/main/docs/RELEASE_NOTES.md#v1310))
 
